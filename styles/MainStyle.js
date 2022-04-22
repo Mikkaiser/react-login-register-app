@@ -7,6 +7,8 @@ export default StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         width: '100%',
-        padding: '3%'
+        padding: '3%',
+        // borderColor: 'yellow',
+        // borderWidth: 10
     }
 })
